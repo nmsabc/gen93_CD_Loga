@@ -1,14 +1,15 @@
-Date,Person,Currency,PaidSum,Px_num,Clasa,RealCost,Retur
-23-05-2023,Nikolaje L Liuba Adriana Cuzman,RON,250,1,XII-X,120,130
-15-04-2023,Sebastian Ivan,RON,500,2,XII-D,240,260
-18-04-2023,Ciotescu Raul,RON,200,1,XII-D,120,80
-18-04-2023,Danielescu Aura Codruta,RON,450,2,XII-E,240,210
-05-05-2023,Dragisa Uncul,RON,425,2,XII-E,240,185
-12-05-2023,Moldovan Ioana Lucia Purge,RON,200,1,XII-X,120,80
-15-05-2023,Flavius Ban,RON,200,1,XII-D,120,80
-19-05-2023,Alina Petrica,RON,200,1,XII-D,120,80
-19-05-2023,Silviu Stance,RON,400,2,XII-X, 240,160
-20-05-2023,Florentin Munteanu,RON,200,1,XII-D,120,80
-23-05-2023,Nikolaje L Liuba Adtiana Cuzman,RON,150,1,XII-X,120,30
-29-05-2023,Diana Melania Beck,RON,200,1,XII-E,120,80
-30-05-2023,Alina Florina Baciu Toma,RON,200,1,XII-D,120,80
+Date,Nume Prenume,Sursa,Currency,Incasat,NumPers,Clasa,RealCost,Retur
+23-05-2023,Nikolaje L Liuba 4 Adriana Cuzman,Revolut,RON,250,1,XII-D,120,130
+15-04-2023,Sebastian Ivan,Revolut,RON,500,2,XII-D,240,260
+18-04-2023,Ciotescu Raul,Revolut,RON,200,1,XII-D,120,80
+18-04-2023,Danielescu Aura Codruta,BT,RON,450,2,XII-E,240,210
+05-05-2023,Dragisa Uncul,Revolut,RON,425,2,XII-E,240,185
+12-05-2023,Moldovan Ioana Lucia Purge,Revolut,RON,200,1,XII-F,120,80
+15-05-2023,Flavius Ban,Revolut,RON,200,1,XII-D,120,80
+19-05-2023,Alina Petrica,Revolut,RON,200,1,XII-D,120,80
+19-05-2023,Silviu Stanca,Revolut,RON,400,2,XII-A, 240,160
+20-05-2023,Florentin Munteanu,Revolut,RON,200,1,XII-D,120,80
+23-05-2023,Nikolaje L Liuba 4 Adtiana Cuzman,Revolut,RON,150,1,XII-D,120,30
+29-05-2023,Diana Melania Beck,Revolut,RON,200,1,XII-E,120,80
+30-05-2023,Alina Florina Baciu Toma,Revolut,RON,200,1,XII-D,120,80
+01-06-2023,Dan Cristian Smolinschi 4 Alina Totoescu,Revolut,RON,250,1,XII-G,120,130 
