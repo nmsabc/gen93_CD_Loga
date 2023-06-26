@@ -1,46 +1,48 @@
 Date,Nume Prenume,Sursa,Currency,Incasat,NumPers,Clasa,RealCost,Retur,PayStatus
-23-05-2023,Nikolaje L Liuba 4 Adriana Cuzman,Revolut,RON,250,1,XII-D,120,130,TT-Paid
-15-04-2023,Sebastian Ivan,Revolut,RON,500,2,XII-D,240,260,TT-Paid
-18-04-2023,Ciotescu Raul,Revolut,RON,200,1,XII-D,120,80,TT-Paid
-18-04-2023,Danielescu Aura Codruta,Revolut,RON,450,2,XII-E,240,210,TT-Paid
-05-05-2023,Dragisa Uncul,Revolut,RON,425,2,XII-E,240,185,TT-Paid
-12-05-2023,Moldovan Ioana Lucia Purge,Revolut,RON,200,1,XII-F,120,80,TT-Paid
-15-05-2023,Flavius Ban,Revolut,RON,200,1,XII-D,120,80,TT-Paid
-19-05-2023,Alina Petrica,Revolut,RON,200,1,XII-D,120,80,TT-Paid
-19-05-2023,Silviu Stanca,Revolut,RON,400,2,XII-A, 240,160,TT-Paid
-20-05-2023,Florentin Munteanu,Revolut,RON,200,1,XII-D,120,80,TT-Paid
-23-05-2023,Nikolaje L Liuba 4 Adtiana Cuzman,Revolut,RON,150,1,XII-D,120,30,TT-Paid
-29-05-2023,Diana Melania Beck,Revolut,RON,200,1,XII-E,120,80,TT-Paid
-30-05-2023,Alina Florina Baciu Toma,Revolut,RON,200,1,XII-D,120,80,TT-Paid
-01-06-2023,Dan Cristian Smolinschi 4 Alina Totoescu,Revolut,RON,250,1,XII-G,120,130 ,TT-Paid
-02-06-2023,Calin Costin Creanga - PROTOCOL,Revolut,RON,100,1,XII-G,100,0 ,TT-Paid
-03-06-2023,Simona Alina Cimpoesu,Revolut,RON,225,1,XII-D,120,95,TT-Paid
-06-06-2023,Marina Cosmin,Revolut,RON,225,1,XII-D,120,95,TT-Paid
-06-06-2023,Anghel Rodica Alina,Revolut,RON,200,1,XII-G,120,70,TT-Paid
-10-06-2023,Doru Ducan,Revolut,RON,200,1,XII-D,120,70,TT-Paid
-20-06-2023,David Alinamaria,Revolut,RON,200,1,XII-G,120,70,TT-Paid
-20-06-2023,Silvian Tecu,Revolut,RON,200,1,XII-B,120,70,TT-Paid
-20-06-2023,Anghel Cristian 4 Cecilia Anghel,Revolut,RON,200,1,XII-D,120,70,TT-Paid
-20-06-2023,Suciu Raluca Alina Virginia,Revolut,RON,200,1,XII-A,120,70,TT-Paid
-20-06-2023,Serban Talpos,Revolut,RON,400,2,XII-B,240,160,TT-Paid
-20-06-2023,Sebastiano Stoppa 4 Patricia Gheorghiu,Revolut,RON,500,2,XII-x,240,260,TT-Paid
-20-06-2023,Sorin Bojin - PROTOCOL,Revolut,RON,100,1,XII-E,100,0 ,TT-Paid
-20-06-2023,Bogdan Cristina,Revolut,RON,200,1,XII-x,120,70,TT-Paid
-20-06-2023,Tita Gabriela,Revolut,RON,200,1,XII-A,120,70,TT-Paid
-20-06-2023,Suciu Raluca 4 Radu Marinescu,Revolut,RON,200,1,XII-A,120,70,TT-Paid
-20-06-2023,Suciu Raluca 4 Diana Semen,Revolut,RON,200,1,XII-G,120,70,TT-Paid
-20-06-2023,Stelian Anghel,Revolut,RON,200,1,XII-x,120,70,TT-Paid
-21-06-2023,Florentina Cecilia Savu,Revolut,RON,200,1,XII-G,120,70,TT-Paid
-21-06-2023,Negrei Gelu,Revolut,RON,200,1,XII-E,120,70,TT-Paid
-21-06-2023,Ioana Andrada Tatar,Revolut,RON,250,1,XII-B,120,70,TT-Paid
-22-06-2023,Paul Caramidariu,Revolut,RON,200,1,XII-E,120,70,TT-Paid
-22-06-2023,Florica Mihaescu,Revolut,RON,200,1,XII-G,120,70,Cash-ToBePaid
-22-06-2023,Adrian Marius Padunszky,Revolut,RON,200,1,XII-E,120,70,TT-Paid
-22-06-2023,Florentin Munteanu 4 Moisa Raul,Revolut,RON,200,1,XII-D,120,70,TT-Paid
-23-06-2023,Doru Gardan,Revolut,RON,200,1,XII-B,120,70,TT-Paid
-23-06-2023,Cezar Sebastian Nicolescu,Revolut,RON,200,1,XII-E,120,70,TT-Paid
-23-06-2023,Sorban Cosmin Petru,Revolut,RON,200,1,XII-B,120,70,TT-Paid
-23-06-2023,Icobescu Roxana si Ovidiu,Revolut,RON,400,2,XII-D G,120,70,TT-Paid
-24-06-2023,Lavinia Mihaela Ban,Revolut,RON,200,1,XII-A,120,70,TT-Paid
-24-06-2023,Cirnatu Catalin,Revolut,RON,200,1,XII-F,120,70,TT-Paid
-24-06-2023,Georgeta Parente (Stanescu),Revolut,RON,200,1,XII-G,120,70,TT-Paid
+23-05-2023,Nikolaje L Liuba 4 Adriana Cuzman,Revolut,RON,250,1,XII-D,120,-999999,TT-Paid
+15-04-2023,Sebastian Ivan,Revolut,RON,500,2,XII-D,240,-999999,TT-Paid
+18-04-2023,Ciotescu Raul,Revolut,RON,200,1,XII-D,120,-999999,TT-Paid
+18-04-2023,Danielescu Aura Codruta,Revolut,RON,450,2,XII-E,240,-999999,TT-Paid
+05-05-2023,Dragisa Uncul,Revolut,RON,425,2,XII-E,240,-999999,TT-Paid
+12-05-2023,Moldovan Ioana Lucia Purge,Revolut,RON,200,1,XII-F,120,-999999,TT-Paid
+15-05-2023,Flavius Ban,Revolut,RON,200,1,XII-D,120,-999999,TT-Paid
+19-05-2023,Alina Petrica,Revolut,RON,200,1,XII-D,120,-999999,TT-Paid
+19-05-2023,Silviu Stanca,Revolut,RON,400,2,XII-A, 240,-999999,TT-Paid
+20-05-2023,Florentin Munteanu,Revolut,RON,200,1,XII-D,120,-999999,TT-Paid
+23-05-2023,Nikolaje L Liuba 4 Adtiana Cuzman,Revolut,RON,150,1,XII-D,120,-999999,TT-Paid
+29-05-2023,Diana Melania Beck,Revolut,RON,200,1,XII-E,120,-999999,TT-Paid
+30-05-2023,Alina Florina Baciu Toma,Revolut,RON,200,1,XII-D,120,-999999,TT-Paid
+01-06-2023,Dan Cristian Smolinschi 4 Alina Totoescu,Revolut,RON,250,1,XII-G,120,-999999,TT-Paid
+02-06-2023,Calin Costin Creanga - PROTOCOL,Revolut,RON,100,1,XII-G,100,-999999,TT-Paid
+03-06-2023,Simona Alina Cimpoesu,Revolut,RON,225,1,XII-D,120,-999999,TT-Paid
+06-06-2023,Marina Cosmin,Revolut,RON,225,1,XII-D,120,-999999,TT-Paid
+06-06-2023,Anghel Rodica Alina,Revolut,RON,200,1,XII-G,120,-999999,TT-Paid
+10-06-2023,Doru Ducan,Revolut,RON,200,1,XII-D,120,-999999,TT-Paid
+20-06-2023,David Alinamaria,Revolut,RON,200,1,XII-G,120,-999999,TT-Paid
+20-06-2023,Silvian Tecu,Revolut,RON,200,1,XII-B,120,-999999,TT-Paid
+20-06-2023,Anghel Cristian 4 Cecilia Anghel,Revolut,RON,200,1,XII-D,120,-999999,TT-Paid
+20-06-2023,Suciu Raluca Alina Virginia,Revolut,RON,200,1,XII-A,120,-999999,TT-Paid
+20-06-2023,Serban Talpos,Revolut,RON,400,2,XII-B,240,-999999,TT-Paid
+20-06-2023,Sebastiano Stoppa 4 Patricia Gheorghiu,Revolut,RON,500,2,XII-x,240,-999999,TT-Paid
+20-06-2023,Sorin Bojin - PROTOCOL,Revolut,RON,100,1,XII-E,100,-999999,TT-Paid
+20-06-2023,Bogdan Cristina,Revolut,RON,200,1,XII-x,120,-999999,TT-Paid
+20-06-2023,Tita Gabriela,Revolut,RON,200,1,XII-A,120,-999999,TT-Paid
+20-06-2023,Suciu Raluca 4 Radu Marinescu,Revolut,RON,200,1,XII-A,120,-999999,TT-Paid
+20-06-2023,Suciu Raluca 4 Diana Semen,Revolut,RON,200,1,XII-G,120,-999999,TT-Paid
+20-06-2023,Stelian Anghel,Revolut,RON,200,1,XII-x,120,-999999,TT-Paid
+21-06-2023,Florentina Cecilia Savu,Revolut,RON,200,1,XII-G,120,-999999,TT-Paid
+21-06-2023,Negrei Gelu,Revolut,RON,200,1,XII-E,120,-999999,TT-Paid
+21-06-2023,Ioana Andrada Tatar,Revolut,RON,250,1,XII-B,120,-999999,TT-Paid
+22-06-2023,Paul Caramidariu,Revolut,RON,200,1,XII-E,120,-999999,TT-Paid
+22-06-2023,Florica Mihaescu,Revolut,RON,200,1,XII-G,120,-999999,Cash-ToBePaid
+22-06-2023,Adrian Marius Padunszky,Revolut,RON,200,1,XII-E,120,-999999,TT-Paid
+22-06-2023,Florentin Munteanu 4 Moisa Raul,Revolut,RON,200,1,XII-D,120,-999999,TT-Paid
+23-06-2023,Doru Gardan,Revolut,RON,200,1,XII-B,120,-999999,TT-Paid
+23-06-2023,Cezar Sebastian Nicolescu,Revolut,RON,200,1,XII-E,120,-999999,TT-Paid
+23-06-2023,Sorban Cosmin Petru,Revolut,RON,200,1,XII-B,120,-999999,TT-Paid
+23-06-2023,Icobescu Roxana si Ovidiu,Revolut,RON,400,2,XII-D G,120,-999999,TT-Paid
+24-06-2023,Lavinia Mihaela Ban,Revolut,RON,200,1,XII-A,120,-999999,TT-Paid
+24-06-2023,Cirnatu Catalin,Revolut,RON,200,1,XII-F,120,-999999,TT-Paid
+24-06-2023,Georgeta Parente (Stanescu),Revolut,RON,200,1,XII-G,120,-999999,TT-Paid
+26-06-2023,Ghile Vasile Dorel,Revolut,RON,500,2,XII-C,240,-999999,TT-Paid
+26-06-2023,Diana Carina Munteanu,Revolut,RON,400,2,XII-D,160,-999999,TT-Paid
